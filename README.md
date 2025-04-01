@@ -4,3 +4,5 @@ This digital clock application provides a real-time display of the current date 
 
 `getTime()` method: Part of the `Calendar` class in the `java.util` package, this method retrieves the current system date and time in a specified format.
  
+## ScreenShot
+![image](https://github.com/user-attachments/assets/d6f2fe3b-bc91-4d0d-aebb-393b219dc2ac)
